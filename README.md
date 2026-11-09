@@ -33,15 +33,8 @@ I spend my time breaking down protocols, hardening environments, writing clean J
 
 ---
 
-### 📬 Connect
-
-- **LinkedIn:** [linkedin.com/in/luka-krstic1](https://www.linkedin.com/in/luka-krstic1/)
-- **Direct Mail:** `krsticluka0511@gmail.com`
-
----
-
 <div align="center">
 
-> *"Understand the system to secure the future."*
+*"Understand the system to secure the future."*
 
 </div>
