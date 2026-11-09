@@ -1,7 +1,12 @@
-# Luka Krstić 👋
+# Luka Krstić 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-krstic1/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krstic-sec)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-krstic1/)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/KrsticSec)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krsticluka0511@gmail.com)
+
+[![Focus](https://img.shields.io/badge/FOCUS-CYBERSECURITY%20%26%20NETWORKS-00C853?style=for-the-badge&logo=target&logoColor=white)](#)
+
+---
 [![Status](https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Networks-00E676?style=for-the-badge&logo=target&logoColor=white)]()
 
 ---
