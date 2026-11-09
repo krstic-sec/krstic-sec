@@ -5,7 +5,9 @@
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krsticluka0511@gmail.com)
 
 [![Focus](https://img.shields.io/badge/FOCUS-CYBERSECURITY%20%26%20NETWORKS-00C853?style=for-the-badge&logo=target&logoColor=white)](#)
+
 ---
+
 Computer Science undergraduate with a focus on defensive security, networking infrastructure, and low-level system mechanics. 
 
 I spend my time breaking down protocols, hardening environments, writing clean Java backends, and figuring out how things behave under the hood when pushed to their limits. Big believer in hands-on lab work: if it runs, inspect the traffic; if it breaks, debug the stack.
