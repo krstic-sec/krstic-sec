@@ -7,9 +7,6 @@
 [![Focus](https://img.shields.io/badge/FOCUS-CYBERSECURITY%20%26%20NETWORKS-00C853?style=for-the-badge&logo=target&logoColor=white)](#)
 
 ---
-[![Status](https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Networks-00E676?style=for-the-badge&logo=target&logoColor=white)]()
-
----
 
 Computer Science undergraduate with a strong focus on defensive security, networking infrastructure, and low-level system mechanics. 
 
@@ -40,3 +37,11 @@ I spend my time breaking down protocols, hardening environments, writing clean J
 
 - **LinkedIn:** [linkedin.com/in/luka-krstic1](https://www.linkedin.com/in/luka-krstic1/)
 - **Direct Mail:** `krsticluka0511@gmail.com`
+
+---
+
+<div align="center">
+
+> *"Understand the system to secure the future."*
+
+</div>
