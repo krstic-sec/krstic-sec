@@ -8,7 +8,7 @@
 
 ---
 
-Computer Science undergraduate with a strong focus on defensive security, networking infrastructure, and low-level system mechanics. 
+Computer Science undergraduate with a focus on defensive security, networking infrastructure, and low-level system mechanics. 
 
 I spend my time breaking down protocols, hardening environments, writing clean Java backends, and figuring out how things behave under the hood when pushed to their limits. Big believer in hands-on lab work: if it runs, inspect the traffic; if it breaks, debug the stack.
 
